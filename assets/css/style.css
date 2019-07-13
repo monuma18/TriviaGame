@@ -1,0 +1,89 @@
+.form-check-label {
+    padding-right: 40px;
+  
+}
+
+#start {
+	margin-top: 10px;
+}
+
+#restart {
+	margin-top: 10px;
+}
+
+#splashScreen {
+	display: inherit;
+	margin-top: 100px;
+}
+
+#questions {
+	display: none;
+	margin-top: 50px;
+}
+
+#snarf {
+	background: #fff;
+}
+
+#text {
+	margin-bottom: 20px;
+}
+
+#gameOver {
+	display: none;
+	margin-top: 50px;
+}
+
+#timer {
+	visibility: hidden;
+}
+
+#img1 {
+	height: 400px;
+	background: url("../https://images2.minutemediacdn.com/image/upload/c_crop,h_843,w_1500,x_0,y_10/f_auto,q_auto,w_1100/v1555172614/shape/mentalfloss/iStock-177369626_1.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	cursor: pointer;
+}
+
+#img2 {
+	height: 400px;
+	background: url("../images/bridgeKeeper.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	cursor: pointer;
+}
+
+#arthurThoughts, #keeperThoughts {
+	display: none;
+}
+
+#arthurThoughts img {
+	position: relative;
+    bottom: 460px;
+    right: 5px;
+    width: 160px;
+}
+
+#arthurThoughts p {
+	position: relative;
+    bottom: 564px;
+    line-height: 2px;
+    right: 4px;
+    font-size: .8em;
+}
+
+#keeperThoughts img {
+	position: relative;
+    bottom: 461px;
+    right: 6px;
+    width: 160px;
+}
+
+#keeperThoughts p {
+	position: relative;
+    bottom: 554px;
+    line-height: 2px;
+    right: 5px;
+    font-size: .8em;
+}
